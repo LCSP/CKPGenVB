@@ -1,0 +1,15 @@
+G:\BasicProyects\CKPGen\CKPGen\bin\Debug\CKPGen.exe
+G:\BasicProyects\CKPGen\CKPGen\bin\Debug\CKPGen.pdb
+G:\BasicProyects\CKPGen\CKPGen\bin\Debug\CKPGen.xml
+G:\BasicProyects\CKPGen\CKPGen\obj\x86\Debug\CKPGen.Form1.resources
+G:\BasicProyects\CKPGen\CKPGen\obj\x86\Debug\CKPGen.Resources.resources
+G:\BasicProyects\CKPGen\CKPGen\obj\x86\Debug\CKPGen.vbproj.GenerateResource.Cache
+G:\BasicProyects\CKPGen\CKPGen\obj\x86\Debug\CKPGen.exe
+G:\BasicProyects\CKPGen\CKPGen\obj\x86\Debug\CKPGen.xml
+G:\BasicProyects\CKPGen\CKPGen\obj\x86\Debug\CKPGen.pdb
+G:\BasicProyects\CKPGen\CKPGen\bin\Debug\Interop.WMPLib.dll
+G:\BasicProyects\CKPGen\CKPGen\bin\Debug\AxInterop.WMPLib.dll
+G:\BasicProyects\CKPGen\CKPGen\obj\x86\Debug\Interop.WMPLib.dll
+G:\BasicProyects\CKPGen\CKPGen\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\BasicProyects\CKPGen\CKPGen\obj\x86\Debug\CKPGen.vbproj.ResolveComReference.cache
+G:\BasicProyects\CKPGen\CKPGen\obj\x86\Debug\CKPGen.vbprojResolveAssemblyReference.cache
